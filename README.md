@@ -10,7 +10,7 @@
     loves to click nature's Photographs. Possessing good leadership skills as well as a patient listener</h3>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=amogh2409&label=Profile%50views&color=0e75b6&style=flat"
-        alt="amogh2409" /> </p>
+        alt="AnkitaSahu1312" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=AnkitaSahu1312" alt="AnkitaSahu1312" /></a> </p>
 
@@ -141,8 +141,5 @@
     </div>
 <div>
 <hr style=" border-top: 4px double #b8b8b8;">
-<h3 align="left">Support:</h3>
 
-    </div>
-            <hr style=" border-top: 4px dotted #b2b2b2;">
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSahu1312&" alt="AnkitaSahu1312" /></p> -->
