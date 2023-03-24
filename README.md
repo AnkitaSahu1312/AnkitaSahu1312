@@ -12,8 +12,8 @@
         src="https://komarev.com/ghpvc/?username=amogh2409&label=Profile%50views&color=0e75b6&style=flat"
         alt="amogh2409" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=amogh2409" alt="amogh2409" /></a> </p>
-<p align="left"> <a href="https://twitter.com/amoghsaxena24" target="blank"><img src="https://img.shields.io/twitter/follow/amoghsaxena24?logo=twitter&style=for-the-badge" alt="amoghsaxena24" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=AnkitaSahu1312" alt="AnkitaSahu1312" /></a> </p>
+
 
 - 🔭 I’m currently working on *MySelf*
 
@@ -21,18 +21,18 @@
 
 - 👯 I’m looking to collaborate on [Web Development,](AI related Project)
 
-- 👨‍💻 All of my projects are available at [https://amogh2409.github.io/Portfolio-website/](https://amogh2409.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about *flutter, C++, Python, WebDev*
 
-- 📫 How to reach me *amoghsaxena24@gmail.com*
+- 📫 How to reach me **
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cH8Ew-B9JH-Kcs4DUlO-CL_pEeyUB5tN/view?usp=share_link](https://drive.google.com/file/d/1cH8Ew-B9JH-Kcs4DUlO-CL_pEeyUB5tN/view?usp=share_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact *The bravest thing I've ever done was give a demonstration to a live audience of over one thousand people.*
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="https://github.com/Amogh2409" target="_blank">
+<a href="https://github.com/AnkitaSahu1312" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/amoghsaxena24" target="_blank">
